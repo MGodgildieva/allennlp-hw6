@@ -1,0 +1,1 @@
+from classifiers.predictor.sentence_class_predictor import SentenceClassifierPredictor
